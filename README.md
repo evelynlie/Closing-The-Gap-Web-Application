@@ -16,3 +16,6 @@ This starter code includes:
 * Optional helper SQL files (```ctg_create_tables.sql```) that creates 2 tables (```LGA``` and ```PopulationStatistics```) based on the example CTG ER Model.
 
 The final result of the project was marked as ***High Distinction*** by the judge of the assignment.
+
+## How to Run the Website
+Debug the ```App.java``` file and copy and paste ```http://localhost:7001/``` into the browser's address bar. 
