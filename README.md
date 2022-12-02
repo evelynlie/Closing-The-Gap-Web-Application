@@ -1,4 +1,4 @@
-# Closing The Gap Website
+# Closing The Gap Website (Programming Studio 1 Project)
 This website was created to help indigenous people in Australia to get information and data about "Closing the Gap" campaign. "Closing the Gap" is a campaign that is made by all Australian governments to achieve a better life quality for Aboriginal and Torres Strait Islanders in Australia by the year 2030. There are a total of 17 targets that the Australian governments wants to achieve, ranging from health to education. However, only a few campaign outcomes from the years 2016 and 2021 are focused on on the website because accounting for all outcomes would generate an excessive amount of data.
 
 This project, which is an assignment that must be completed in pairs, began at the beginning of October 2022 and was completed in November 2022. The website itself uses Javalin to convert Java code into HTML and uses CSS to style the website as well as SQL to retrieve the data that user selects, from the database.
