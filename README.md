@@ -1,4 +1,7 @@
 <h1> Closing The Gap Web Application (Programming Studio 1 Project)</h1>
+<p align="center">
+  <img src="https://github.com/im-pelin/Closing-The-Gap-Web-Application/blob/main/Homepage.png" alt="Homepage" width="738">
+</p>
 <h2>Table of Contents</h2>
 
 - [Introduction](#introduction)
@@ -12,6 +15,10 @@ This web-based application was created to help indigenous people in Australia to
 This project, which is an assignment that is completed in pairs, began at the beginning of October 2022 and was completed in November 2022. The website itself uses Javalin to convert Java code into HTML and uses CSS to style the website as well as SQL to retrieve the data that user selects, from the database. The final result of the project was marked as ***High Distinction*** by the judge of the assignment.
 
 ## Features
+1. View all of the campaign's targets.
+2. Get the total number of Indigenous or Non-Indigenous Australians based on their suburb of residence, health conditions, highest education level, or total household weekly income in 2021.
+3. Calculate the total difference between Indigenous and Non-Indigenous Australians based on their health conditions, highest education level, or total household weelly income in 2021.
+4. Get the top 5 Local Government Association's (LGA) that is the most similar or different to the selected LGA based on the selected dataset's attributes.
 
 ## Build Process
 The project starts with a simple layout that is provided as a starter code. 
@@ -80,4 +87,7 @@ You can run the main webserver program similar to the project workshop activitie
 4. Go to: http://localhost:7001
 
 ## Contributors
+* Evelyn Lie, Bachelor of Software Engineering, RMIT University.
 * Edward Lim Padmajaya, Bachelor of Computer Science, RMIT University.
+* Dr. Timothy Wiley, School of Computing Technologies, STEM College, RMIT University.
+* Prof. Santha Sumanasekara, School of Computing Technologies, STEM College, RMIT University.
